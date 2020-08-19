@@ -3,5 +3,4 @@
 [<img align="left" alt="Thomas Hennø | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
 [linkedin]: www.linkedin.com/in/thomas-hennø-43ab79183
