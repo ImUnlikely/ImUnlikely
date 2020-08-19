@@ -17,7 +17,7 @@
 ### Tools and Languages
 [<img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />][python]
 [<img align="left" alt="VSCode" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />][vscode]
-[<img align="left" alt="GitHub" width="26px" src="https://logodix.com/logo/64439.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG40.png" />][github]
 
 
 
