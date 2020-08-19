@@ -18,8 +18,8 @@
 [<img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"/>][python]
 [<img align="left" alt="VSCode" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>][vscode]
 [<img align="left" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][github] 
-[<img align="left" alt="SQLite" width="26px" src="https://i.imgur.com/2OjrkTY.png"/>][sqlite]
-[<img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/0q063rd.png"/>][mongodb]
+[<img align="left" alt="SQLite" width="26px" src="https://i.imgur.com/WmavSbF.png"/>][sqlite]
+[<img align="left" alt="MongoDB" width="30px" src="https://i.imgur.com/0q063rd.png"/>][mongodb]
 [<img align="left" alt="Neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"/>][neo4j]
 
 
