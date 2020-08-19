@@ -15,13 +15,18 @@
 
 
 ### Tools and Languages
-[<img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />][python]
-[<img align="left" alt="VSCode" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />][vscode]
-[<img align="left" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG40.png" />][github]
-
+[<img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"/>][python]
+[<img align="left" alt="VSCode" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>][vscode]
+[<img align="left" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][github] 
+[<img align="left alt="SQLite" width="26px" src="https://banner2.cleanpng.com/20180603/sjv/kisspng-sqlite-relational-database-management-system-redis-square-icon-5b1399d37442c3.5586364215280112194762.jpg"/>][sqlite]
+[<img align="left alt="MongoDB" width="26px" src="https://banner2.cleanpng.com/20180402/brq/kisspng-mongodb-inc-computer-software-business-software-d-bay-leaves-5ac2915dbca250.2102404415227006377727.jpg"/>][mongodb]
+[<img align="left alt="Neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"/>][neo4j]
 
 
 [python]: https://www.python.org
 [vscode]: https://code.visualstudio.com
 [github]: https://github.com/ImUnlikely
+[sqlite]: https://www.sqlite.org/index.html
+[mongodb]: https://www.mongodb.com
+[neo4j]: https://neo4j.com
 [linkedin]: www.linkedin.com/in/thomas-hennø-43ab79183
