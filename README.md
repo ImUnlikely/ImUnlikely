@@ -18,9 +18,9 @@
 [<img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"/>][python]
 [<img align="left" alt="VSCode" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>][vscode]
 [<img align="left" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][github] 
-[<img align="left alt="SQLite" width="26px" src="https://banner2.cleanpng.com/20180603/sjv/kisspng-sqlite-relational-database-management-system-redis-square-icon-5b1399d37442c3.5586364215280112194762.jpg"/>][sqlite]
-[<img align="left alt="MongoDB" width="26px" src="https://banner2.cleanpng.com/20180402/brq/kisspng-mongodb-inc-computer-software-business-software-d-bay-leaves-5ac2915dbca250.2102404415227006377727.jpg"/>][mongodb]
-[<img align="left alt="Neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"/>][neo4j]
+[<img align="left" alt="SQLite" width="26px" src="https://dwglogo.com/?download=5380"/>][sqlite]
+[<img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/0q063rd.png"/>][mongodb]
+[<img align="left" alt="Neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"/>][neo4j]
 
 
 [python]: https://www.python.org
