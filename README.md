@@ -7,12 +7,11 @@
 - Year 2 ✔️
 - Year 3 Ongoing
 
-## My Socials:
-[<img align="left" alt="Thomas Hennø | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/discord_logo_icon_145337.png" alt="Discord" width="26px"> Unlikely#8804
-
+[comment]: <> (## My Socials:)
+[comment]: <> ([<img align="left" alt="Thomas Hennø | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin])
+[comment]: <> (<br />)
+[comment]: <> ()
+[comment]: <> (<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/discord_logo_icon_145337.png" alt="Discord" width="26px"> Unlikely#8804)
 
 ### Tools and Languages
 [<img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"/>][python]
