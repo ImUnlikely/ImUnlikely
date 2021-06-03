@@ -1,5 +1,5 @@
 ## Hi there, I'm Thomas - aka Unlikely
-- 21 Years old
+- 22 Years old
 - Fluent in Norwegian and English
 
 ## I am currently studying Applied Data Science at Noroff!
