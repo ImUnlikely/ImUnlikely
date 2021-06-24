@@ -1,10 +1,10 @@
-## Hi there, I'm Thomas - aka Unlikely
+# Hi there, I'm Thomas - aka Unlikely
 - 22 Years old
 - Fluent in Norwegian and English
 
-# I just got a Bachelor's degree in Applied Data Science!
+## I just got a Bachelor's degree in Applied Data Science!
 
-# I am currently learning:
+## I am currently learning:
 - HTML
 - CSS
 - Flask (python library)
