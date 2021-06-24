@@ -2,10 +2,12 @@
 - 22 Years old
 - Fluent in Norwegian and English
 
-## I am currently studying Applied Data Science at Noroff!
-- Year 1 ✔️
-- Year 2 ✔️
-- Year 3 Ongoing
+# I just got a Bachelor's degree in Applied Data Science!
+
+# I am currently learning:
+- HTML
+- CSS
+- Flask (python library)
 
 [comment]: <> (## My Socials:)
 [comment]: <> ([<img align="left" alt="Thomas Hennø | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin])
